@@ -1,0 +1,42 @@
+{
+  "Toreros": {
+    "elevation": "200.0",
+    "latitude": "32.771923",
+    "name": "Toreros",
+    "description": "The University of San Diego, a private Catholic undergraduate university.",
+    "address-title": "University of San Diego",
+    "category": "School",
+    "address-street": "5998 Alcala Park$San Diego CA 92110",
+    "longitude": "-117.188204"
+  },
+  "UAK-Anchorage": {
+    "elevation": "0.0",
+    "latitude": "61.189748",
+    "name": "UAK-Anchorage",
+    "description": "University of Alaska's largest campus",
+    "address-title": "University of Alaska at Anchorage",
+    "category": "School",
+    "address-street": "290 Spirit Dr$Anchorage AK 99508",
+    "longitude": "-149.826721"
+  },
+  "ASU-West": {
+    "elevation": "1100.0",
+    "latitude": "33.608979",
+    "name": "ASU-West",
+    "description": "Home of ASU's Applied Computing Program",
+    "address-title": "ASU West Campus",
+    "category": "School",
+    "address-street": "13591 N 47th Ave$Phoenix AZ 85051",
+    "longitude": "-112.159469"
+  },
+  "jgvgjv": {
+    "elevation": "vgjvgjv",
+    "latitude": "gjvjg",
+    "name": "jgvgjv",
+    "description": "gv",
+    "address-title": "gjg",
+    "category": "jgvjgvh",
+    "address-street": "jgv",
+    "longitude": "vg"
+  }
+}
